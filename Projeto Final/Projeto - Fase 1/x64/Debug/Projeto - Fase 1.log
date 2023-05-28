@@ -1,0 +1,5 @@
+﻿  Gestor.c
+C:\IPCA\1º ANO\2º SEMESTRE\Estruturas De Dados Avançadas\Trabalho-Pr-tico---Fase-1\Projeto - Fase 1\Projeto - Fase 1\Cliente.h(17,1): warning C4005: 'N': macro redefinition
+C:\IPCA\1º ANO\2º SEMESTRE\Estruturas De Dados Avançadas\Trabalho-Pr-tico---Fase-1\Projeto - Fase 1\Projeto - Fase 1\Gestor.h(9,1): message : see previous definition of 'N'
+C:\IPCA\1º ANO\2º SEMESTRE\Estruturas De Dados Avançadas\Trabalho-Pr-tico---Fase-1\Projeto - Fase 1\Projeto - Fase 1\Gestor.c(19,66): warning C4029: declared formal parameter list different from definition
+  Projeto - Fase 1.vcxproj -> C:\IPCA\1º ANO\2º SEMESTRE\Estruturas De Dados Avançadas\Trabalho-Pr-tico---Fase-1\Projeto - Fase 1\x64\Debug\Projeto - Fase 1.exe

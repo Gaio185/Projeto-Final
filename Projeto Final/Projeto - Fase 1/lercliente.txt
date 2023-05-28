@@ -1,0 +1,3 @@
+4239472343;Joao Silva;300;Rua da Trindade;0
+3123843247;Maria Castro;200;Rua TalTal;1
+2123921309;Jose Pinto;50;Rua Tim;0
